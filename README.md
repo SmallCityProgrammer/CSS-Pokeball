@@ -12,5 +12,6 @@ Algumas habilidades de CSS demonstradas neste projeto incluem:
 - Aplicação de bordas arredondadas (border-radius) para criar formas circulares.
 - Criação de sombras (box-shadow) para adicionar efeitos visuais aos elementos.
 - Ajuste do tamanho e posição dos elementos usando unidades de medida relativas e posicionamento relativo.
+- Criação de código limpo e organizado, facilitando a leitura e manutenção do projeto.
 
 Este projeto serve como uma base para começar a explorar e aprimorar minhas habilidades de estilização e layout com CSS. É importante praticar e experimentar diferentes propriedades e valores para criar designs personalizados.
