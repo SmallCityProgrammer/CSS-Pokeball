@@ -1,5 +1,7 @@
 # CSS Pokeball
+<p align="center">
 <img src="https://github.com/SmallCityProgrammer/CSS-Pokeball/assets/130911203/49c38b79-f813-4dd0-a4f6-f348bafd1572" alt="image" width="380" height="300">
+</p>
 
 Este projeto serve para demonstrar habilidades básicas de CSS e estilização ao criar uma representação visual de uma pokebola. Ele mostra minhas capacidades em utilizar seletores, propriedades e valores CSS para criar formas e estilizar elementos.
 
