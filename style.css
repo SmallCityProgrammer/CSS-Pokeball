@@ -61,5 +61,15 @@
   bottom:194px;
   padding: 68px;
   background-color:#f0f0f0 ;
-  position: absolute;
+  position: absolute;  
+  animation-name: captura;
+  animation-duration: 1.8s;
+  animation-iteration-count: infinite;
+
+}
+
+@keyframes captura {
+  0% { background-color: white; }
+  50% { background-color: red; }
+  100% {background-color: white;}
 }
