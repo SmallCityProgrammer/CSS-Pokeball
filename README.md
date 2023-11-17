@@ -18,4 +18,4 @@ Algumas habilidades de CSS demonstradas neste projeto incluem:
 - Ajuste do tamanho e posição dos elementos usando unidades de medida relativas e posicionamento relativo.
 - Criação de código limpo e organizado, facilitando a leitura e manutenção do projeto.
 
-Este projeto serve como uma base para começar a explorar e aprimorar minhas habilidades de estilização e layout com CSS. É importante praticar e experimentar diferentes propriedades e valores para criar designs personalizados.
+Este projeto serve como uma base para começar a explorar e aprimorar minhas habilidades de estilização e layout com CSS. É importante praticar e experimentar diferentes propriedades e valores para criar designs personalizados!
